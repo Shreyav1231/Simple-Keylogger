@@ -1,5 +1,9 @@
 # Simple-Keylogger
-This python code logs your keys. Type something anywhere and it knows!
+This python code logs your keys. Type something anywhere and it knows! <br/>
+How to use - <br/>
+Clone this repo, run it on your own machine and you're good to go. <br/>
+<br/>
+I added ------Backspace------ so that you know how many times the user backspaced, so that you can find the exact word they typed.
 
 Example - <br/>
 
